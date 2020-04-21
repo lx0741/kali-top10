@@ -1,3 +1,3 @@
 # mykalirepo
 
-this builds a full kali image for easy direct use
+this builds a minimal 3gb kali image with all the needed
